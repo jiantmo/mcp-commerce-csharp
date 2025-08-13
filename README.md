@@ -46,7 +46,7 @@ McpCommerceServer/
 ├── Controllers/
 │   └── CustomerController.cs      # Customer-related operations
 ├── Models/
-│   └── DataModels.cs             # D365 Commerce data models
+│   └── CustomerDataModels.cs     # D365 Commerce customer data models
 ├── Mcp/
 │   └── McpModels.cs              # MCP protocol models
 ├── Services/
